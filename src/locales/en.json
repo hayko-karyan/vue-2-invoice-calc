@@ -1,0 +1,36 @@
+{
+  "messages": {
+    "PRODUCT_NAME": "Product Name",
+    "NAME": "Name",
+    "PRICE": "Price",
+    "COUNT": "Count",
+    "ADD": "Add",
+    "DELETE": "Delete",
+    "TOTAL": "Total",
+    "SUM": "Sum",
+    "NO_INVOICES": "No Invoices",
+    "VALIDATIONS": {
+      "REQUIRED": "Field is required",
+      "SAME_NAME": "Product with same name exists",
+      "LESS_THAN": "Must be less than {value}",
+      "GREATER_THAN": "Must be greater than {value}",
+      "MAX_LENGTH": "Max length should be less than {value}"
+    }
+  },
+  "numberFormats": {
+    "currency": {
+      "style": "currency",
+      "currency": "USD",
+      "notation": "standard"
+    },
+    "percent": {
+      "style": "percent",
+      "useGrouping": false
+    },
+    "decimal": {
+      "style": "decimal",
+      "minimumFractionDigits": 2,
+      "maximumFractionDigits": 2
+    }
+  }
+}
